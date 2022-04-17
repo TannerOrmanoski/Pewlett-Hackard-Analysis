@@ -8,7 +8,7 @@ The purpose of this analysis was to determine the number of employees retiring f
 
 •	The first insight in the retiring_titles table is that the employees with the Senior Engineer and Senior Staff title will experience the largest exodus. The expected retirees in these groups far outnumber those in the other retiree groups. 
 
-![]https://github.com/TannerOrmanoski/Pewlett-Hackard-Analysis/blob/main/Employees%20retiring%20by%20title.png
+![](https://github.com/TannerOrmanoski/Pewlett-Hackard-Analysis/blob/main/Employees%20retiring%20by%20title.png)
 
 •	Another observation is that half of the groups retiring have engineer titles. This means that Pewlett Hackard, should focus on hiring more engineers first and foremost. 
 •	The last point of significance to be gathered from this table is that in total 42,803 employees are in the retiring age range.
