@@ -11,7 +11,10 @@ The purpose of this analysis was to determine the number of employees retiring f
 ![](https://github.com/TannerOrmanoski/Pewlett-Hackard-Analysis/blob/main/Employees%20retiring%20by%20title.png)
 
 •	Another observation is that half of the groups retiring have engineer titles. This means that Pewlett Hackard, should focus on hiring more engineers first and foremost. 
-•	The last point of significance to be gathered from this table is that in total 42,803 employees are in the retiring age range.
+
+
+
+•	The last point of significance to be gathered from this table is that in total 72,458 employees are in the retiring age range.
 
 
 
