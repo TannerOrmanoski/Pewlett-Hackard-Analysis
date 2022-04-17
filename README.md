@@ -20,16 +20,18 @@ The purpose of this analysis was to determine the number of employees retiring f
 
 •	From the mentorship_elegibility table the main point to look at is that there are 1,940 employees that are eligible to participate in a mentorship program. 
 
-
+![](https://github.com/TannerOrmanoski/Pewlett-Hackard-Analysis/blob/main/Mentorship%20eligible%20employees.png)
 
 ## Summary 
 
 1)	How many roles will need to be filled as the “silver tsunami” begins to make an impact?
 
-There are 42,803 people within the retirement age range. If all these people leave the company, then presumably the same number of people will be needed to fill those roles.
+There are 72,458 people within the retirement age range. If all these people leave the company, then presumably the same number of people will be needed to fill those roles.
 
 
 
 2)	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 No, there are only 1,940 retirement age employees eligible to participate in this program, and there are 42, 803 roles that will need to be filled. That would mean that each mentor would have around 22 employees each to mentor.
+
+![](https://github.com/TannerOrmanoski/Pewlett-Hackard-Analysis/blob/main/Mentorship%20eligible%20employees.png)
