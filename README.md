@@ -28,7 +28,7 @@ The purpose of this analysis was to determine the number of employees retiring f
 
 There are 72,458 people within the retirement age range. If all these people leave the company, then presumably the same number of people will be needed to fill those roles.
 
-
+![](https://github.com/TannerOrmanoski/Pewlett-Hackard-Analysis/blob/main/Number%20of%20employees%20retiring%20.png)
 
 2)	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
